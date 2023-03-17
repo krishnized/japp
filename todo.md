@@ -1,6 +1,7 @@
 ## Stage 0 - assets
 
 * [ ] Folder of japas, classified by gurus
+* [ ] Collect info about recording: where, when, context
 * [ ] Clean up from music / background (see AI tech)
 * [ ] Enhance audio quality
 * [ ] Collect imagery by guru
