@@ -25,3 +25,4 @@
 * ! With automatic counter + words + bad mouthing + advice on technique improvement + aparatha warning
 * ! ! you're too fast
 * ! Table results compared
+* ! Music bg customizer: from classical Prabhupada japa to modern music mix with prabhupada insertions.
